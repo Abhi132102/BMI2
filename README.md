@@ -93,7 +93,7 @@ To deploy this Flask application on Vercel, follow these steps:
 
 ## Example
 
-![BMI Calculator](screenshot.png)
+![BMI Calculator]("C:\Users\vasam\OneDrive\Pictures\Screenshots\Screenshot 2024-07-07 144451.png")
 
 ## Contributing
 
